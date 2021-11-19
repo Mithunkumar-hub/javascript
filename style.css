@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(177, 110, 240);
+    text-align: center;
+}
+.container{
+    padding: 10px;
+    border: 1px solid #bcb9bb;
+    width: 40%;
+    margin:auto;
+}
+.container .input{
+    width: 87%;
+    height: 20px;
+    font-size: 15px;
+
+
+}
+.container .btn{
+    width: 60px;
+    height: 20px;
+
+
+}
+.container ul{
+    list-style: none;
+    padding: 0px;
+}
+.container li{
+    color: rgb(11, 12, 71);
+    font-size: 25px;
+}
+.container li a{
+    float: right;
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+.container #error{
+    color: red;
+    font-size: 25px;
+}
